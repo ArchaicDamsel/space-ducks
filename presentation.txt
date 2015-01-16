@@ -1,0 +1,5 @@
+presentation.txt
+
+bundle gem (name of gem)
+
+gosu gem

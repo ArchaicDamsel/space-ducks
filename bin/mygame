@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+Dir.chdir(File.join(File.dirname(__FILE__), '..')) do
+  `bundle exec rake start`
+end
